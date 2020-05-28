@@ -1,0 +1,49 @@
+* {
+  box-sizing: none;
+}
+body {
+  background-color: #3d6cb9;
+}
+.pri {
+  background-color: purple;
+}
+.in label {
+  color: #eac100;
+  font-size: 25px;
+}
+.img {
+  text-align: center;
+}
+#loadingImage {
+  display: none;
+}
+.in input {
+  font-size: 23px;
+  max-width: 210px;
+}
+.in button {
+  margin-left: 5px;
+  padding: 8px;
+  border-radius: 5px;
+  background-color: purple;
+  border: 1px purple solid;
+  color: gold;
+}
+h1 {
+  display: inline;
+  float: right;
+  color: #eac100;
+}
+h2 {
+  color: #eac100;
+}
+.list {
+  list-style: none;
+}
+.list h2 {
+  text-align: center;
+}
+.pri img {
+  height: 100px;
+  float: right;
+}
